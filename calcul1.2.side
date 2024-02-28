@@ -1,7 +1,7 @@
 {
   "id": "9251a695-ff5b-4607-80ee-055b115b1d87",
   "version": "2.0",
-  "name": "callllllll",
+  "name": "calculator-arifm",
   "url": "http://135.181.40.185/Calculator.html",
   "tests": [{
     "id": "fbf21d3f-b40f-47a5-8bb7-e1d2b8baf32d",
@@ -437,7 +437,7 @@
     }]
   }, {
     "id": "2db9e209-a94d-447f-adca-4206e32abe73",
-    "name": "calcul1.7 95/2 (1)",
+    "name": "calcul1.7 95/2",
     "commands": [{
       "id": "de9f3a07-0fa2-43ec-9b78-59b6add1dcda",
       "comment": "",

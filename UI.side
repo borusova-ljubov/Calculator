@@ -5,7 +5,7 @@
   "url": "http://135.181.40.185/Calculator.html",
   "tests": [{
     "id": "f0fe93f0-84d7-42c7-bfe3-a0f2f8a88ad3",
-    "name": "UI",
+    "name": "UI +*",
     "commands": [{
       "id": "75c90abb-e47e-4510-864c-3d70277df236",
       "comment": "",
