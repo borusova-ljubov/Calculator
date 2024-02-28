@@ -88,6 +88,115 @@
       "targets": [],
       "value": "7"
     }]
+  }, {
+    "id": "f53da607-208e-4f06-bc5e-78dfe3b279bb",
+    "name": "UI ///",
+    "commands": [{
+      "id": "07868d08-fada-4d3e-99e1-6f6e30d76eaf",
+      "comment": "",
+      "command": "open",
+      "target": "http://135.181.40.185/Calculator.html",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5317162a-6fac-455b-9c8d-0a25e541ebae",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1298x751",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "02433380-5c3f-4760-a475-d40bccbe6135",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(2) > td:nth-child(3) > input",
+      "targets": [
+        ["css=tr:nth-child(2) > td:nth-child(1) > input", "css:finder"],
+        ["xpath=//input[@value='1']", "xpath:attributes"],
+        ["xpath=//table[@id='calcu']/tbody/tr[2]/td/input", "xpath:idRelative"],
+        ["xpath=//tr[2]/td/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "9bfb3eb6-6f82-421c-ad57-46b2695d4431",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(3) > td:nth-child(3) > input",
+      "targets": [
+        ["css=tr:nth-child(2) > td:nth-child(1) > input", "css:finder"],
+        ["xpath=//input[@value='1']", "xpath:attributes"],
+        ["xpath=//table[@id='calcu']/tbody/tr[2]/td/input", "xpath:idRelative"],
+        ["xpath=//tr[2]/td/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8fa0e40f-61d9-479c-9bc4-c6194ef7ea3a",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(2) > td:nth-child(4) > input",
+      "targets": [
+        ["css=tr:nth-child(2) > td:nth-child(1) > input", "css:finder"],
+        ["xpath=//input[@value='1']", "xpath:attributes"],
+        ["xpath=//table[@id='calcu']/tbody/tr[2]/td/input", "xpath:idRelative"],
+        ["xpath=//tr[2]/td/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4ecb7e8-9cdc-496f-a93e-1f851c100946",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(2) > td:nth-child(4) > input",
+      "targets": [
+        ["css=tr:nth-child(2) > td:nth-child(1) > input", "css:finder"],
+        ["xpath=//input[@value='1']", "xpath:attributes"],
+        ["xpath=//table[@id='calcu']/tbody/tr[2]/td/input", "xpath:idRelative"],
+        ["xpath=//tr[2]/td/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c382fdd4-f620-4565-83a0-3ff4bc0b3de6",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(2) > td:nth-child(4) > input",
+      "targets": [
+        ["css=tr:nth-child(2) > td:nth-child(1) > input", "css:finder"],
+        ["xpath=//input[@value='1']", "xpath:attributes"],
+        ["xpath=//table[@id='calcu']/tbody/tr[2]/td/input", "xpath:idRelative"],
+        ["xpath=//tr[2]/td/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "91c04509-2d3a-4aaa-8929-c41fbfb65ca3",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(2) > td:nth-child(1) > input",
+      "targets": [
+        ["css=tr:nth-child(2) > td:nth-child(1) > input", "css:finder"],
+        ["xpath=//input[@value='1']", "xpath:attributes"],
+        ["xpath=//table[@id='calcu']/tbody/tr[2]/td/input", "xpath:idRelative"],
+        ["xpath=//tr[2]/td/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "28be3132-3863-4eab-b7a9-81f9eea5e0b8",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(5) > td:nth-child(3) > input",
+      "targets": [
+        ["css=tr:nth-child(2) > td:nth-child(1) > input", "css:finder"],
+        ["xpath=//input[@value='1']", "xpath:attributes"],
+        ["xpath=//table[@id='calcu']/tbody/tr[2]/td/input", "xpath:idRelative"],
+        ["xpath=//tr[2]/td/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d3f0ee56-93f8-4ce2-8136-25ed8e7ccb68",
+      "comment": "",
+      "command": "verifyValue",
+      "target": "xpath=//input[@type=\"text\"]",
+      "targets": [],
+      "value": "36"
+    }]
   }],
   "suites": [{
     "id": "88671934-f6d3-426c-ad65-f3b4f9b8dd0f",
