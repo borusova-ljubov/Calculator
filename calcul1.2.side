@@ -627,7 +627,7 @@
     }]
   }, {
     "id": "5a644318-6cc9-468e-b330-b3b056934cb4",
-    "name": "calcul1.9 -14 + -15",
+    "name": "calcul1.9 -14 -15",
     "commands": [{
       "id": "1796b0ee-774b-402e-bd0a-fce59542f900",
       "comment": "",
@@ -676,18 +676,6 @@
         ["xpath=//input[@value='9']", "xpath:attributes"],
         ["xpath=//table[@id='calcu']/tbody/tr[4]/td[3]/input", "xpath:idRelative"],
         ["xpath=//tr[4]/td[3]/input", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "0cea1fbc-37e6-436e-bae0-af4a74f25052",
-      "comment": "",
-      "command": "click",
-      "target": "css=tr:nth-child(5) > td:nth-child(4) > input",
-      "targets": [
-        ["css=tr:nth-child(5) > td:nth-child(3) > input", "css:finder"],
-        ["xpath=//input[@value='=']", "xpath:attributes"],
-        ["xpath=//table[@id='calcu']/tbody/tr[5]/td[3]/input", "xpath:idRelative"],
-        ["xpath=//tr[5]/td[3]/input", "xpath:position"]
       ],
       "value": ""
     }, {
