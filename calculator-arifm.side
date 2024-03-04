@@ -1251,8 +1251,145 @@
       "targets": [],
       "value": "0"
     }]
+<<<<<<< .mine
+  }, {
+    "id": "063211a8-2c09-4c5d-ac5f-1b91ba871ee0",
+    "name": "calcul1.14 2/0 ",
+    "commands": [{
+      "id": "8993e6f9-5974-4421-b8b3-edc7fd11499f",
+      "comment": "",
+      "command": "open",
+      "target": "http://135.181.40.185/Calculator.html",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "87e7ce97-d3bb-4ea6-b747-5b69251eb6b2",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1298x751",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "40902dac-5de5-4a1c-a442-f2b593d28051",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(2) > td:nth-child(2) > input",
+      "targets": [
+        ["css=tr:nth-child(2) > td:nth-child(1) > input", "css:finder"],
+        ["xpath=//input[@value='1']", "xpath:attributes"],
+        ["xpath=//table[@id='calcu']/tbody/tr[2]/td/input", "xpath:idRelative"],
+        ["xpath=//tr[2]/td/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2b2375ac-ed67-47e0-82e2-4d211db92437",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(2) > td:nth-child(4) > input",
+      "targets": [
+        ["css=tr:nth-child(5) > td:nth-child(4) > input", "css:finder"],
+        ["xpath=//input[@value='+']", "xpath:attributes"],
+        ["xpath=//table[@id='calcu']/tbody/tr[5]/td[4]/input", "xpath:idRelative"],
+        ["xpath=//tr[5]/td[4]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "88531e45-8881-44ae-8546-42fd2a4c0969",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(5) > td:nth-child(1) > input",
+      "targets": [
+        ["css=tr:nth-child(4) > td:nth-child(3) > input", "css:finder"],
+        ["xpath=//input[@value='9']", "xpath:attributes"],
+        ["xpath=//table[@id='calcu']/tbody/tr[4]/td[3]/input", "xpath:idRelative"],
+        ["xpath=//tr[4]/td[3]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a62865da-b712-447e-b0a3-0e5aa5df754f",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(5) > td:nth-child(3) > input",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ecd0ee77-9188-4685-880b-d65ceb8ce9ec",
+      "comment": "",
+      "command": "verifyValue",
+      "target": "xpath=//input[@type=\"text\"]",
+      "targets": [],
+      "value": "деление на ноль невозможно"
+    }]
+=======
     
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> .theirs
   }],
   "suites": [{
     "id": "0708152b-6003-46e6-9650-6294ede2f1b8",
