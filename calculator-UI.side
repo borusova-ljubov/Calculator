@@ -1,7 +1,7 @@
 {
   "id": "7527cc4d-9217-4e5a-af98-110a78d941f1",
   "version": "2.0",
-  "name": "calculator-UI-branches-test1",
+  "name": "calculator-UI",
   "url": "http://135.181.40.185/Calculator.html",
   "tests": [{
     "id": "7dc5df26-e0af-4f49-bf97-975116b40dc9",
